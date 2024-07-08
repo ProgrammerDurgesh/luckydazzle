@@ -72,7 +72,7 @@
 
 
                 <a class="navbar-brand" href="index.jsp">
-                    <p class="logotxt">PSgaming</p>
+                    <p class="logotxt">luckydazzle</p>
                     <!-- <img src="assets/images/header-logo.png" class="img-fluid logo-color" alt="logo"> -->
                     </a>
 
@@ -133,7 +133,7 @@
             <div class="logo">
                 <a href="index.jsp" class="logo">
                     <!-- <img src="assets/images/header-logo.png" class="img-responsive" alt=""> -->
-                    <p class="logotxt">PSgaming</p>
+                    <p class="logotxt">luckydazzle</p>
                 </a>
             </div>
             <div id="head-mobile"></div>
@@ -179,7 +179,7 @@
                     <div class="heading contactHdg">
                         <h2>Contact us</h2>
                         <img src="assets/images/heading-border-effect.png" class="img-fluid" alt="effect">
-                        <p>Thank you for visiting PlaySmart Gaming, and we look forward to welcoming you to our world of playful innovation!</p>
+                        <p>Thank you for visiting luckydazzle Gaming, and we look forward to welcoming you to our world of playful innovation!</p>
                     </div>
                     <div class="row mb-3">
                         <div class="col-lg-2 col-md-3 col-3">
@@ -189,8 +189,7 @@
                         </div>
                         <div class="col-lg-10 col-md-9 col-9">
                             <div class="location-txt">
-                                <span>15, ADEWALE, ADEGBETE, UNIQUE ESTATE,
-                                    BARUWA, LAGOS STATE, NIGERIA</span>
+                                <span>77 CAMDEN STREET LOWER, DUBLIN 2, DUBLIN, D02XE80, IRELAND</span>
                             </div>
                         </div>
                     </div>
@@ -265,7 +264,7 @@
                 <div class="col-lg-5 ms-auto col-md-6">
                     <div class="contact-about">
                         <div class="heading">
-                            <h2>ABOUT PS Gaming</h2>
+                            <h2>ABOUT luckydazzle Gaming</h2>
                             <img src="assets/images/heading-border-effect.png" class="img-fluid" alt="effect">
                         </div>
                         <p class="mb30">Our massive selection of games include some of the most played genres online, the most popular being <b> racing games, slot games, action games</b> and many more.</p>

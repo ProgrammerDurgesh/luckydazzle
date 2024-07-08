@@ -239,9 +239,10 @@ nav {
         position: absolute;
         top: 2px;
         left: 15px;
-        width: 100%;
+        width:max-content;
         padding: 10px 0 0 0;
-        float: none
+        float: none;
+        z-index:2;
     }
    .logo img{
         height: 50px;

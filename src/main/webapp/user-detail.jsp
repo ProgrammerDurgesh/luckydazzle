@@ -83,7 +83,7 @@ List<GameEntity> allGames = (List<GameEntity>) session.getAttribute("allGames");
 
 
                 <a class="navbar-brand" href="index.jsp">
-                    <p class="logotxt">PSgaming</p>
+                    <p class="logotxt">luckydazzle</p>
                     <!-- <img src="assets/images/header-logo.png" class="img-fluid logo-color" alt="logo"> -->
                     </a>
 
@@ -144,7 +144,7 @@ List<GameEntity> allGames = (List<GameEntity>) session.getAttribute("allGames");
             <div class="logo">
                 <a href="index.jsp" class="logo">
                     <!-- <img src="assets/images/header-logo.png" class="img-responsive" alt=""> -->
-                    <p class="logotxt">PSgaming</p>
+                    <p class="logotxt">luckydazzle</p>
                 </a>
             </div>
             <div id="head-mobile"></div>
@@ -291,7 +291,7 @@ List<GameEntity> allGames = (List<GameEntity>) session.getAttribute("allGames");
 				<div class="col-lg-5 ms-auto col-md-6">
 					<div class="contact-about">
 						<div class="heading">
-							<h2>ABOUT PS Gaming</h2>
+							<h2>ABOUT luckydazzle Gaming</h2>
 							<img src="assets/images/heading-border-effect.png"
 								class="img-fluid" alt="effect">
 						</div>

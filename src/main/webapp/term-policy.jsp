@@ -72,7 +72,7 @@
 
 
                 <a class="navbar-brand" href="index.jsp">
-                    <p class="logotxt">PSgaming</p>
+                    <p class="logotxt">luckydazzle</p>
                     <!-- <img src="assets/images/header-logo.png" class="img-fluid logo-color" alt="logo"> -->
                     </a>
 
@@ -133,7 +133,7 @@
             <div class="logo">
                 <a href="index.jsp" class="logo">
                     <!-- <img src="assets/images/header-logo.png" class="img-responsive" alt=""> -->
-                    <p class="logotxt">PSgaming</p>
+                    <p class="logotxt">luckydazzle</p>
                 </a>
             </div>
             <div id="head-mobile"></div>
@@ -180,14 +180,14 @@
                         <h2>Term & policy</h2>
                         <img src="assets/images/heading-border-effect.png" class="img-fluid" alt="effect">
                     </div>
-                    <p>Welcome to PlaySmart Gaming, operated by CP Technology and Integrated Systems Limited. Please
+                    <p>Welcome to luckydazzle Gaming, operated by CP Technology and Integrated Systems Limited. Please
                         take the time to read through our Terms and Policy to understand your rights and obligations as
                         a user of our services. By accessing or using our website and services, you agree to comply with
                         these terms and policies.
                     </p>
                     <h2>TERMS OF SERVICE</h2>
                     <h2><i>1. ACCEPTANCE OF TERMS</i></h2>
-                    <p>By accessing and using PlaySmart Gaming, you agree to comply with and be bound by these terms. If
+                    <p>By accessing and using luckydazzle Gaming, you agree to comply with and be bound by these terms. If
                         you do not agree with any part of these terms, please do not use our services.</p>
                     <h2><i>2. USER ACCOUNTS</i></h2>
                     <p>To access certain features, you may be required to create an account. You are responsible for
@@ -307,7 +307,7 @@
                 <div class="col-lg-5 ms-auto col-md-6">
                     <div class="contact-about">
                         <div class="heading">
-                            <h2>ABOUT PS Gaming</h2>
+                            <h2>ABOUT luckydazzle Gaming</h2>
                             <img src="assets/images/heading-border-effect.png" class="img-fluid" alt="effect">
                         </div>
                         <p class="mb30">Our massive selection of games include some of the most played genres online, the most popular being <b> racing games, slot games, action games</b> and many more.</p>

@@ -76,7 +76,7 @@
 
 
                 <a class="navbar-brand" href="index.jsp">
-                    <p class="logotxt">PSgaming</p>
+                    <p class="logotxt">luckydazzle</p>
                     <!-- <img src="assets/images/header-logo.png" class="img-fluid logo-color" alt="logo"> -->
                     </a>
 
@@ -137,7 +137,7 @@
             <div class="logo">
                 <a href="index.jsp" class="logo">
                     <!-- <img src="assets/images/header-logo.png" class="img-responsive" alt=""> -->
-                    <p class="logotxt">PSgaming</p>
+                    <p class="logotxt">luckydazzle</p>
                 </a>
             </div>
             <div id="head-mobile"></div>
@@ -184,7 +184,7 @@
 
                         <h1 class="title">Online Gaming</h1>
                         <h3>PLAY VIDEO GAMES</h3>
-                        <p>playsmartgaming.com Publishes some of the highest quality games available online. Our massive selection of games include some of the most played genres online, the most popular being <b> racing games, slot games, action games</b>.</p>
+                        <p>luckydazzle.com Publishes some of the highest quality games available online. Our massive selection of games include some of the most played genres online, the most popular being <b> racing games, slot games, action games</b>.</p>
 
                         <div class="casino-btn">
                             <a href="#project-img" class="btn-4 yellow-btn">play now</a>
@@ -490,7 +490,7 @@
                 <div class="col-lg-5 ms-auto col-md-6">
                     <div class="contact-about">
                         <div class="heading">
-                            <h2>ABOUT PS Gaming</h2>
+                            <h2>ABOUT luckydazzle Gaming</h2>
                             <img src="assets/images/heading-border-effect.png" class="img-fluid" alt="effect">
                         </div>
                         <p class="mb30">Our massive selection of games include some of the most played genres online, the most popular being <b> racing games, slot games, action games</b> and many more.</p>

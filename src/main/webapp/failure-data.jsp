@@ -235,7 +235,7 @@
                 <div class="col-lg-5 ms-auto col-md-6">
                     <div class="contact-about">
                         <div class="heading">
-                            <h2>ABOUT PS Gaming</h2>
+                            <h2>ABOUT luckydazzle Gaming</h2>
                             <img src="assets/images/heading-border-effect.png" class="img-fluid" alt="effect">
                         </div>
                         <p class="mb30">Our massive selection of games include some of the most played genres online, the most popular being <b> racing games, slot games, action games</b> and many more.</p>

@@ -72,7 +72,7 @@
 
 
                 <a class="navbar-brand" href="index.jsp">
-                    <p class="logotxt">PSgaming</p>
+                    <p class="logotxt">luckydazzle</p>
                     <!-- <img src="assets/images/header-logo.png" class="img-fluid logo-color" alt="logo"> -->
                     </a>
 
@@ -133,7 +133,7 @@
             <div class="logo">
                 <a href="index.jsp" class="logo">
                     <!-- <img src="assets/images/header-logo.png" class="img-responsive" alt=""> -->
-                    <p class="logotxt">PSgaming</p>
+                    <p class="logotxt">luckydazzle</p>
                 </a>
             </div>
             <div id="head-mobile"></div>
@@ -187,10 +187,10 @@
                 </div>
                 <div class="col-lg-6 contact-about">
                     <div class="heading">
-                        <h2>WELCOME TO PLAYSMART GAMING</h2>
+                        <h2>WELCOME TO luckydazzle GAMING</h2>
                         <img src="assets/images/heading-border-effect.png" class="img-fluid" alt="effect">
                     </div>
-                    <p class="mb30">Welcome to PlaySmart Gaming, proudly brought to you by CP Technology and Integrated
+                    <p class="mb30">Welcome to luckydazzle Gaming, proudly brought to you by CP Technology and Integrated
                         Systems Limited!
                     </p><br>
                     <p>Our mission is to revolutionize the world of gaming by developing intelligent strategies,
@@ -200,7 +200,7 @@
                         gaming to offer something truly special for our gamers.</p>
 
                     <div class="casino-btn">
-                        <a href="#">Play now</a>
+                        <a href="index.jsp#project-img">Play now</a>
                     </div>
                 </div>
             </div>
@@ -223,7 +223,7 @@
             <div class="row rowLag">
                 <div class="col-lg-5">
                     <div class="leftImg">
-                        <img src="assets/images/services_details02.jpg" alt="PSgaming" />
+                        <img src="assets/images/services_details02.jpg" alt="luckydazzle" />
                     </div>
                 </div>
                 <div class="col-md-7">
@@ -231,7 +231,7 @@
                         <h2>Gaming Strategy</h2>
                         <img src="assets/images/heading-border-effect.png" class="img-fluid" alt="effect">
                         <p>
-                            At PlaySmart Gaming, we are masters of strategy. Our team of expert developers and designers
+                            At luckydazzle, we are masters of strategy. Our team of expert developers and designers
                             meticulously craft each game, ensuring that every element is balanced, engaging, and
                             challenging. We delve deep into the gaming psyche, understanding what makes players tick,
                             what keeps them returning, and how we can provide an enriching gaming experience that stands
@@ -258,7 +258,7 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="leftImg">
-                        <img src="assets/images/services_details002.jpeg" alt="PSgaming" />
+                        <img src="assets/images/services_details002.jpeg" alt="luckydazzle" />
                     </div>
                 </div>
             </div>
@@ -266,7 +266,7 @@
             <div class="row rowLag">
                 <div class="col-lg-5">
                     <div class="leftImg">
-                        <img src="assets/images/services_details01.jpg" alt="PSgaming" />
+                        <img src="assets/images/services_details01.jpg" alt="luckydazzle" />
                     </div>
                 </div>
                 <div class="col-md-7">
@@ -296,7 +296,7 @@
             <div class="row justify-content-center text-center">
                 <div class="col-lg-6">
                     <div class="heading">
-                        <h2>Why Choose PlaySmart Gaming?</h2>
+                        <h2>Why Choose luckydazzle Gaming?</h2>
                         <img src="assets/images/heading-border-effect.png" class="img-fluid" alt="effect">
                     </div>
                 </div>
@@ -304,22 +304,22 @@
             <ul class="nav nav-pills whyChooseSec" id="pills-tab" role="tablist">
                 <li class="nav-item" role="presentation">
                   <button class="nav-link active" id="pills-why1-tab" data-toggle="pill" data-target="#pills-why1" type="button" role="tab" aria-controls="pills-why1" aria-selected="true">
-                        <img src="assets/images/logo1.png" alt="PSgaming" />
+                        <img src="assets/images/logo1.png" alt="luckydazzle" />
                   </button>
                 </li>
                 <li class="nav-item" role="presentation">
                   <button class="nav-link" id="pills-why2-tab" data-toggle="pill" data-target="#pills-why2" type="button" role="tab" aria-controls="pills-why2" aria-selected="false">
-                    <img src="assets/images/logo2.png" alt="PSgaming" />
+                    <img src="assets/images/logo2.png" alt="luckydazzle" />
                   </button>
                 </li>
                 <li class="nav-item" role="presentation">
                   <button class="nav-link" id="pills-why3-tab" data-toggle="pill" data-target="#pills-why3" type="button" role="tab" aria-controls="pills-why3" aria-selected="false">
-                    <img src="assets/images/logo3.png" alt="PSgaming" />
+                    <img src="assets/images/logo3.png" alt="luckydazzle" />
                   </button>
                 </li>
                 <li class="nav-item" role="presentation">
                     <button class="nav-link" id="pills-why4-tab" data-toggle="pill" data-target="#pills-why4" type="button" role="tab" aria-controls="pills-why4" aria-selected="false">
-                        <img src="assets/images/logo4.png" alt="PSgaming" />
+                        <img src="assets/images/logo4.png" alt="luckydazzle" />
                     </button>
                   </li>
               </ul>
@@ -415,7 +415,7 @@
                 <div class="col-lg-5 ms-auto col-md-6">
                     <div class="contact-about">
                         <div class="heading">
-                            <h2>ABOUT PS Gaming</h2>
+                            <h2>ABOUT luckydazzle Gaming</h2>
                             <img src="assets/images/heading-border-effect.png" class="img-fluid" alt="effect">
                         </div>
                         <p class="mb30">Our massive selection of games include some of the most played genres online, the most popular being <b> racing games, slot games, action games</b> and many more.</p>
@@ -539,18 +539,18 @@
       $(".userInfo .dropdown-toggle").text(userName);
       $(".login").hide();
       $(".userInfo").show();
-      $(".casino-btn a").attr("href", "user-detail.jsp");
+    /*   $(".casino-btn a").attr("href", "user-detail.jsp");
       $(".cardBox a").attr("href", "user-detail.jsp");
-      $(".casGnbn a").attr("href", "user-detail.jsp");
+      $(".casGnbn a").attr("href", "user-detail.jsp"); */
   }else{
       console.log("User is not logged in");
       $(".userNav-res").hide();
       $(".login_menu").show();
       $(".login").show();
       $(".userInfo").hide();
-      $(".casino-btn a").attr("href", "login.jsp");
+ /*      $(".casino-btn a").attr("href", "login.jsp");
       $(".cardBox a").attr("href", "login.jsp");
-      $(".casGnbn a").attr("href", "login.jsp");
+      $(".casGnbn a").attr("href", "login.jsp"); */
   }
   
   function logout() {
